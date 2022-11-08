@@ -53,14 +53,6 @@
                         if (selEntry + 1 < daybook.entries.Count)
                             selEntry += 1;
                         break;
-                        // case ConsoleKey.N: 
-                        //     int tmp;
-                        //     try {
-                        //         tmp = Convert.ToInt32(Console.ReadLine());
-                        //     } catch {
-                        //         Console.WriteLine("Введите номер записи!");
-                        //     }
-                        //     break;
                 }
             }
         }
